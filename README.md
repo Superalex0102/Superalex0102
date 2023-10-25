@@ -25,7 +25,6 @@
 <p align="left">
 <a href="https://fb.com/szuperalex0102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="szuperalex0102" height="30" width="40" /></a>
 <a href="https://instagram.com/superalex0102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="superalex0102" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC66YDM-jNw9xnk4KyORAi6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="superalex0102" height="30" width="40" /></a>
 <a href="https://discord.gg/ea24hdffZk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ea24hdffZk" height="30" width="40" /></a>
 </p>
 
