@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I'm a 21 year old somewhat self-taught Java/PHP developer, who is open to work on any projects based on PHP, Java</h3>
+<h3 align="center">I'm a 22 year old somewhat self-taught Java/PHP developer, who is open to work on any projects based on PHP, Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superalex0102&label=Profile%20views&color=0e75b6&style=flat" alt="superalex0102" /> </p>
 
