@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I'm a 22 year old somewhat self-taught Java/PHP developer, who is open to work on any projects based on PHP, Java</h3>
+<h3 align="center">I'm a 22 year old somewhat self-taught Java/C#/PHP developer, who is open to work on any projects based on Java, PHP, C# or C++</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superalex0102&label=Profile%20views&color=0e75b6&style=flat" alt="superalex0102" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superalex0102" alt="superalex0102" /></a> </p>
 
+- 🏢 I'm currently working at [Fundamenta](https://fundamenta.hu/)
+
 - 🔭 I’m currently working on [VanityEmpire](https://vanityempire.hu/)
 
-- 🌱 I’m currently learning **Java, PHP, Laravel, VueJS, Javascript**
+- 🌱 I’m currently learning **Java, PHP, C#, C++, RPA**
 
-- 👯 I’m looking to collaborate on **PHP Projects**
+- 👯 I’m looking to collaborate on **PHP/Java/C#/C++ Projects**
 
 - 🤝 I’m looking for help with **any programming language really**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Superalex0102](https://github.com/Superalex0102)
 
-- 💬 Ask me about **Java, PHP, Spigot, Spigot Plugins or BungeeCord**
+- 💬 Ask me about **Java, PHP, C#, C++, Spigot, Spigot Plugins or BungeeCord**
 
 - 📫 How to reach me **superalex0102@gmail.com**
 
