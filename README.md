@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superalex0102" alt="superalex0102" /></a> </p>
 
-- 🏢 I'm currently working at [Fundamenta](https://fundamenta.hu/)
+- 🏢 I'm currently working at [RDI Software Hungary](https://www.rdisoftware.com/)
 
 - 🔭 I’m currently working on [VanityEmpire](https://vanityempire.hu/)
 
