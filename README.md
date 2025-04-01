@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I'm a 22 year old somewhat self-taught Java/C#/PHP developer, who is open to work on any projects based on Java, PHP, C# or C++</h3>
+<h3 align="center">I'm a 23 year old somewhat self-taught Java/C#/PHP developer, who is open to work on any projects based on Java, PHP, C# or C++</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superalex0102&label=Profile%20views&color=0e75b6&style=flat" alt="superalex0102" /> </p>
 
@@ -25,7 +25,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/szuperalex0102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="szuperalex0102" height="30" width="40" /></a>
 <a href="https://instagram.com/superalex0102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="superalex0102" height="30" width="40" /></a>
 <a href="https://discord.gg/ea24hdffZk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ea24hdffZk" height="30" width="40" /></a>
 </p>
