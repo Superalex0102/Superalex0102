@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [VanityEmpire](https://vanityempire.hu/)
 
-- 🌱 I’m currently learning **Java, PHP, C#, C++, RPA**
+- 🌱 I’m currently learning **Java, PHP, C#, C++, Swift**
 
-- 👯 I’m looking to collaborate on **PHP/Java/C#/C++ Projects**
+- 👯 I’m looking to collaborate on **PHP/Java/C#/C++, iOS Projects**
 
 - 🤝 I’m looking for help with **any programming language really**
 
